@@ -7,7 +7,7 @@ This project performs a customer churn analysis for a telecom company using the 
 - `Telco_Customer_Churn.csv` — The raw dataset containing customer demographics, account information, service subscriptions, churn status, and other relevant attributes.  
 - Power BI report file: `Intern.pbix` — The main Power BI file containing data modelling, measures, and dashboard visualizations.  
 - Dashboard screenshot images: `Page 1.png`, `Page 2.png`, … `Page 8.png` — Preview pages of the Power BI report for quick overview without opening Power BI.
-- "C:\Users\Vamshi\OneDrive\Desktop\zidio\2 Month\Page 1.png"
+- Page 1.png
   
 - Page 2.png
 - Page 3.png
